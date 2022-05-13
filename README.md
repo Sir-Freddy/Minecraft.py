@@ -1,2 +1,2 @@
 # Minecraft.py
-Simply recreating the game Minecraft using the Ursina module in Python
+A very simple recreation of the base gameplay of Minecraft using [Ursina Engine](https://www.ursinaengine.org/)
